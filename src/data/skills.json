@@ -16,10 +16,6 @@
         "imageSrc": "../../../assets/skills/node.png"
       },
       {
-        "title": "GraphQL",
-        "imageSrc": "../../../assets/skills/graphql.png"
-      },
-      {
         "title": "MongoDB",
         "imageSrc": "../../../assets/skills/mongodb.png"
       },
