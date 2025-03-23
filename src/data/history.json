@@ -4,7 +4,7 @@
       "organisation": "Google",
       "startDate": "Sept, 2022",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["Worked on Google Maps"],
       "imageSrc": "../../../assets/history/google.png"
     },
     {
@@ -12,7 +12,7 @@
       "organisation": "Mirosoft",
       "startDate": "Aug, 2021",
       "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Worked on Windows 11"],
       "imageSrc": "../../../assets/history/microsoft.png"
     },
     {
@@ -20,10 +20,7 @@
       "organisation": "Netflix",
       "startDate": "Apr, 2020",
       "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
+      "experiences": ["Worked on component library"],
       "imageSrc": "../../../assets/history/netflix.png"
     }
   ]
